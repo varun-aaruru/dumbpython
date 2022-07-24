@@ -1,0 +1,8 @@
+1. SyntaxError: unexpected EOF while parsing
+example: Occurs when we dont close the print statement
+2. SyntaxError: EOL while scanning string literal
+example: Occurs when we dont close quotes inside a print statement
+3. IndentationError: unexpected Indent
+example: Occurs when there is extra spaces or less spaces than required
+4. TypeError: 
+example: when we pass different type of data than required type of data.

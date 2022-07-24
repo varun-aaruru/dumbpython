@@ -1,0 +1,14 @@
+we can use underscores inbetween large numbers(int or float or any) for better readability.
+for example...
+a = 123_456_789 is same as a = 123456789
+but in first case, it is better readable. It will not throw an error in python.
+PEMDASLR
+Paranthesis ()
+Exponential **
+Multiplication and Division */
+Addition and subtracction +-
+Left to Right
+round()
+floor()
+abs()
+floor divison: 8//3 gives output of 2
