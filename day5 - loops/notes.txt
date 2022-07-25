@@ -1,0 +1,4 @@
+random.shuffle()
+random.choice()
+list.append()
+range()
