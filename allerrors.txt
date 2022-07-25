@@ -6,3 +6,5 @@ example: Occurs when we dont close quotes inside a print statement
 example: Occurs when there is extra spaces or less spaces than required
 4. TypeError: 
 example: when we pass different type of data than required type of data.
+5. IndexError : index out of range
+example: when index(given) of list/dict etc.. is out of actual index range
